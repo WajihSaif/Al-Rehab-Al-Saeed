@@ -1,0 +1,49 @@
+.المسار {
+    padding-bottom: 450px;
+    padding-left: 2px;
+    border-radius: 10px;
+    background-image: url("image/خلفية.jpg");
+}
+
+
+.شكل {
+    word-spacing: 55px;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    border-radius: 35px;
+    background-color: rgba(230, 231, 243, 0.4);
+    padding-left: 15px;
+}
+
+
+.زر {
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    border-radius: 10px;
+    padding-bottom: 3px;
+    border-color: aquamarine;
+    background-color:blanchedalmond;
+}
+
+.إعلان {
+    text-align: center;
+    color: white;
+}
+
+
+
+
+.تعريف {
+    text-align: center;
+}
+
+.تحديد {
+    text-align: right;
+}
+
+.فيديو {
+    width: 450px;
+    height: 350px;
+    padding-right: 40%;
+}

@@ -1,0 +1,18 @@
+.تنسيق {
+    text-align: center;
+    color:blue;
+    padding-top: 15px;
+}
+
+body {
+    background-image: url("image/خلفية.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.مربع {
+    border-radius: 5px;
+    color: blueviolet;
+    font-size: 15px;
+    direction: ltr;
+}

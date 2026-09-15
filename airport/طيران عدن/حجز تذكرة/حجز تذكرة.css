@@ -1,0 +1,21 @@
+    body {
+        background-image: url("image/خلفية\ 4.jfif");
+        background-repeat: no-repeat;
+        background-size: 100%;
+        text-align: center;
+        color: black;
+        padding-top: 250px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    
+    .خلفية {
+        background-repeat: no-repeat;
+        padding-bottom: 30px;
+    }
+    
+    .تنسيق {
+        border-radius: 8px;
+        color: black;
+        font-size: 15px;
+        direction: rtl;
+    }

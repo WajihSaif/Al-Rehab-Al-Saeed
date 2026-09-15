@@ -1,0 +1,32 @@
+ body {
+     background-image: url("image/خلفية\ تسجيل.png");
+     background-repeat: no-repeat;
+     background-size: 100%;
+ }
+ 
+ .رئيسي {
+     text-align: center;
+     color: blue;
+     padding-top: 50px;
+ }
+ 
+ .جديد {
+     color: blue;
+     font-size: 20px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     padding-left: 50px;
+     text-align: center;
+ }
+ 
+ .ميزة {
+     border-radius: 8px;
+     padding-bottom: 4px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ 
+ .زرر {
+     border-radius: 10px;
+     font-size: 20px;
+     padding-left: 10px;
+     padding-right: 10px;
+ }

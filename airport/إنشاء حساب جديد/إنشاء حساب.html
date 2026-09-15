@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>إنشاء حساب جديد</title>
+            <meta name="keywords" content="إنشاء حساب ,تسجيل دخول جديد ,loge in">
+            <meta name="author" content="وجيه لطف عبداالله سيف">
+            <meta name="description" content="صفحة إنشاء حساب جديد ضمن اليمنية للطيران">
+            <link rel="stylesheet" href="إنشاء حساب.css">
+            <link href="image/icon.jpg" type="image/x-icon" rel="icon">
+</head>
+
+<body>
+
+    <h1 class="رئيسي">إنشاء حساب جديد</h1>
+
+    <form  class="جديد" action="#" onsubmit="create(event)" id="loginForm">
+
+                <label class="ميزة" for="fristname">الاسم الأول:</label><br>
+                <input class="ميزة" id="fristname" type="text" required placeholder="أدخل الاسم الأول.." name="fristname"><br><br>
+
+                <label for="Lastname">الاسم الأخير:</label><br>
+                <input class="ميزة" id="Lastname" type="text" required placeholder="أدخل الاسم الأخير....." name="Lastname"><br><br>
+
+
+                <label for="Email">البريد الإلكتروني:</label><br>
+                <input class="ميزة" id="Email" type="email" required placeholder="أدخل بريدك الإلكتروني....." name="Email"><br><br>
+
+
+                <label for="number_phone">رقم الهاتف:</label><br>
+                <input class="ميزة" id="number_phone" type="number" required placeholder="أدخل رقم هاتفك...." name="number_phone"><br><br>
+
+                <label for="password">كلمة المرور:</label><br>
+                <input id="password" type="password" required placeholder="أدخل كلمة المرور..." name="password"><br><br>
+
+                <label for="agin_password">تأكيد كلمة المرور:</label><br>
+                <input class="ميزة " id="agin_password" type="password" required placeholder="أدخل كلمة المرور مرة أخرى..." name="agin_password"><br><br>
+
+                <label for="Date_born">تاريخ الميلاد:</label><br>
+                <input class="ميزة " id="Date_born" type="date" required name="Date_born"><br><br>
+
+
+                <label for="Gender"> الجنس:</label><br>
+                <select id="Gender" required name="Gender">
+                    <option >ذكر</option>
+                    <option >أنثى</option>
+                    <option >ليس شرط</option>
+                </select> <br>
+
+
+                <label for="Country">الدولة:</label><br>
+                <select class="ميزة " id="Country" required name="Country ">
+                            <option >اختر دولتك</option>
+                            <option >الجمهورية اليمنية</option>
+                            <option >مصر</option>
+                            <option >عمان</option>
+                            <option >الكويت</option>
+                            <option >البحرين</option>
+                            <option >السودان</option>
+                            <option >الإمارات</option>
+                            <option >الاردن</option>
+                            <option >الجزائر</option>
+                            <option >السودن</option>
+                            <option >فلسطين</option>
+                            <option >سوريا</option>
+                            <option >موراتنيا</option>
+                            <option >المغرب</option>
+                            <option >الصومال</option>
+                            <option >الولايات المتحدة</option>
+                            <option >تركيا</option>
+                            <option >ماليزيا</option>
+                            <option >كوريا الجنوبية</option>
+                            <option >الهند</option>
+                            <option >إيران</option>
+                            <option >الصين</option>
+                            <option >باكستان</option>
+                            <option >أفغانستان</option>
+                </select><br><br>
+
+
+                <button type="submit" class="زرر ">إرسال</button>
+
+
+
+    </form>
+
+
+
+<script src="../جافا سكريبت/mainjava.js"></script>
+
+
+
+
+</body>
+
+</html>

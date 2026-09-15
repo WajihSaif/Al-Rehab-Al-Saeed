@@ -1,0 +1,46 @@
+
+.تنسيق {
+    
+    color:black;
+    padding-top: 2px;
+    display: flex;
+    align-items:center;
+    padding-left: 100px;
+    gap:950px ;
+
+
+}
+
+.محاذاة{
+    text-align: center;
+    background-image: url("image/خلفية.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 30px;
+    padding-top: 5px;
+    padding-bottom: 45px;
+    color:black;
+}
+
+.تقسيم{
+    
+    white-space: nowrap;
+    /* لمنع التفاف النص داخل العنصر span */
+    margin-left: 110px;
+    /* لإضافة مسافة بين الجمل وعلامات الفصل */
+    margin-right: 110px;
+    /* لإضافة مسافة بين الجمل وعلامات الفصل */
+}
+
+.تشكيل{
+    padding-top: 25px;
+   border-radius: 20PX;
+   background-color:rgb(249, 247, 236);
+   padding-bottom: 80px;
+   margin-top: 5px;
+}
+
+.النهاية{
+    text-align: center;
+    color: gold;
+}

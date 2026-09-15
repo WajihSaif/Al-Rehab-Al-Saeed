@@ -1,0 +1,99 @@
+h1 {
+    text-align: center;
+    padding-top: 70px;
+    font-size: 80px;
+    color: black;
+}
+
+.واجهة {
+    background-image: url("image/خلفيةة.jpg");
+    padding-bottom: 80px;
+    padding-top: 10px;
+    border-radius: 15px;
+}
+
+.معلومات {
+    padding-left: 40px;
+    padding-bottom: 10px;
+    background-color: rgba(20, 20, 20, .6);
+    word-spacing: 30px;
+    border-radius: 30px;
+    margin-left: 40px;
+    margin-right: 20px;
+}
+
+.رئسية {
+    text-align: right;
+    font-size: 30px;
+    padding-left: 500px;
+    color: black;
+}
+
+.محاذاة {
+    border-radius: 20px;
+    font-size: 15px;
+    padding-bottom: 4px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: rgb(239, 206, 164);
+    color: black;
+    margin-left: 10px;
+}
+
+.نص {
+    text-align: center;
+    color: gold;
+    font-size: 50px
+}
+
+
+.إعلانات {
+    text-align: right;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    background-color: rgb(248, 247, 244);
+}
+
+.شرح {
+    padding-top: 4px;
+    text-align: right;
+}
+
+
+
+.صورة {
+    border-radius: 10px;
+}
+
+.كلام {
+    word-spacing: 0px;
+}
+
+.رحلة {
+    text-align: right;
+}
+
+.مطارات {
+    white-space: nowrap;
+    margin-left: 50px;
+    margin-right: 50px;
+   
+}
+
+.تطبيق {
+    text-align: center;
+    padding: 5px;
+    margin-left: 100px;
+    margin-right: 50px;
+    padding-right: 20px;
+}
+
+
+.الاخير {
+    padding-top: 20px;
+    padding-bottom: 200px;
+    background-color: rgb(23, 19, 19);
+    color: white;
+    border-radius: 25px;
+    text-align: center;
+}

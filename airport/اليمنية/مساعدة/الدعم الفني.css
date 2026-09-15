@@ -1,0 +1,21 @@
+body {
+    background-image: url("image/خلفيات1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.العنوان {
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+}
+
+.نص {
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+}
+
+.تنسيق{
+    text-align: center;
+}
